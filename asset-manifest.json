@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9609a4f4.css",
-    "main.js": "/static/js/main.ddcf852e.js",
-    "static/js/787.c7ded3de.chunk.js": "/static/js/787.c7ded3de.chunk.js",
+    "main.js": "/static/js/main.28a02e71.js",
+    "static/js/787.d0316622.chunk.js": "/static/js/787.d0316622.chunk.js",
     "static/media/single-sofa-01.jpg": "/static/media/single-sofa-01.066a994d36d7ee59a0e0.jpg",
     "static/media/single-sofa-03.jpg": "/static/media/single-sofa-03.19d776d13fcee69a7765.jpg",
     "static/media/arm-chair-03.jpg": "/static/media/arm-chair-03.726a783a7751afc13d8e.jpg",
@@ -31,11 +31,11 @@
     "static/media/watch-07.png": "/static/media/watch-07.ab34f22bd9bf81f6c7b7.png",
     "index.html": "/index.html",
     "main.9609a4f4.css.map": "/static/css/main.9609a4f4.css.map",
-    "main.ddcf852e.js.map": "/static/js/main.ddcf852e.js.map",
-    "787.c7ded3de.chunk.js.map": "/static/js/787.c7ded3de.chunk.js.map"
+    "main.28a02e71.js.map": "/static/js/main.28a02e71.js.map",
+    "787.d0316622.chunk.js.map": "/static/js/787.d0316622.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9609a4f4.css",
-    "static/js/main.ddcf852e.js"
+    "static/js/main.28a02e71.js"
   ]
 }
