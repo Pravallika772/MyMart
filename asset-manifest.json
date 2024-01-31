@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mymart/static/css/main.fca75562.css",
+    "main.css": "/mymart/static/css/main.d14a4a5e.css",
     "main.js": "/mymart/static/js/main.30576959.js",
     "static/js/787.d0316622.chunk.js": "/mymart/static/js/787.d0316622.chunk.js",
     "static/media/single-sofa-01.jpg": "/mymart/static/media/single-sofa-01.066a994d36d7ee59a0e0.jpg",
@@ -30,12 +30,12 @@
     "static/media/wireless-01.png": "/mymart/static/media/wireless-01.1a76d777727c50ca0294.png",
     "static/media/watch-07.png": "/mymart/static/media/watch-07.ab34f22bd9bf81f6c7b7.png",
     "index.html": "/mymart/index.html",
-    "main.fca75562.css.map": "/mymart/static/css/main.fca75562.css.map",
+    "main.d14a4a5e.css.map": "/mymart/static/css/main.d14a4a5e.css.map",
     "main.30576959.js.map": "/mymart/static/js/main.30576959.js.map",
     "787.d0316622.chunk.js.map": "/mymart/static/js/787.d0316622.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fca75562.css",
+    "static/css/main.d14a4a5e.css",
     "static/js/main.30576959.js"
   ]
 }
